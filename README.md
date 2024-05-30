@@ -34,7 +34,7 @@ Data entry: The user enters name, email, phone number and password.
 
 *** 
 
-### OBS
+### Note
 This is the working basis of user identification. All buttons and logic work without problems. At the moment there is no connection to FIREBASE yet.
 <!-- ## Video
 
