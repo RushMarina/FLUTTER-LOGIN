@@ -32,7 +32,10 @@ Data entry: The user enters name, email, phone number and password.
 |:-------------:|:------------------:|:-------------------:|
 |<img src="assets/login_welcome.png" width="200">|<img src="assets/login_registration.png" width="200">|<img src="assets/login_password.png" width="200">|
 
+*** 
 
+### OBS
+This is the working basis of user identification. All buttons and logic work without problems. At the moment there is no connection to FIREBASE yet.
 <!-- ## Video
 
 [![Example](https://github.com/RushMarina/Weather3/assets/WA.png)] -->
